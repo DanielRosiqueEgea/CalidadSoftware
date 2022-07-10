@@ -13,7 +13,7 @@ public class TestParticionPrecio {
 	private double precio = 10.0f;
 	
 	Factura factura1 = new Factura(1);
-
+ 
 	
 	@Test
 	public void testAddProducto() {
